@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">PRUEBA TABS</string>
+	<string name="tab_text_1">Texto</string>
+	<string name="tab_text_2">Imagenes</string>
+	<string name="tab_text_3">prb3</string>
+	<string name="tab_text_4">prb4</string>
+	<string name="tab_text_5">prb5</string>
+	<string name="tab_text_6">prb6</string>
+</resources>
